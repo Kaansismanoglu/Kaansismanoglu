@@ -1,5 +1,3 @@
-# ReadMe
-
 # 💫 About Me:
 📚 I'm an Industrial Engineer at MEF University.<br>🔍 I’m currently working on Web Development and Data.<br>🔭 I’m currently learning Data Science and AI<br>👯 I’m looking to collaborate on AI<br>
 
